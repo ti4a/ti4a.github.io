@@ -4,7 +4,7 @@
 
 ![Gjestebok](https://raw.githubusercontent.com/ti4a/ti4a.github.io/main/website/graphics/ti4a.gjestebok.hvit.png)\
 Gjesteboken er tredjepart, vi kan ikke garantere levetiden på en hilsen, dessverre.\
-Du er midlertidig hjertelig velkommen til å lage en Gist [her!(https://gist.github.com/ti4a)]
+Du er midlertidig hjertelig velkommen til å lage en Gist [her!(https://gist.github.com/ti4a/gjestebok)]
 
 ![Kryptofond](https://raw.githubusercontent.com/ti4a/ti4a.github.io/main/website/graphics/ti4a.kryptofond.hvit.png)\
 Vi arbeider med å få på plass alle de tekniske detaljene rundt dette å lage og oppbevare en krypto-lommebok for Adrian.\
